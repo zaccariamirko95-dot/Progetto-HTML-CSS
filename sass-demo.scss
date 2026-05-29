@@ -1,0 +1,9 @@
+$primary: #ff5900;
+
+.demo-button {
+  background: $primary;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
